@@ -1,2 +1,2 @@
-# SSH_DEMO
-this is a spring struts2 hibernate demo
+# SSM_DEMO
+this is a spring springmvc mybatis demo
