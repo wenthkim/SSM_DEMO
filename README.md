@@ -1,2 +1,2 @@
 # SSH_DEMO
-this is a ssh demo
+this is a spring struts2 hibernate demo
