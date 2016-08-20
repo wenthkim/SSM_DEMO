@@ -6,7 +6,7 @@ public class User {
 		
 	}
 
-	private Integer id;
+	private Integer id;//”√ªßid
 	private String username;
 	private String password;
 	
