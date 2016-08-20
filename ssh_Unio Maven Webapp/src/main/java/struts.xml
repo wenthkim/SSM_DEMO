@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN" "struts-2.3.dtd" >
+<struts>
+
+	<!-- 配置struts的扩展名 -->
+	
+	 <constant name="struts.action.extension" value="action,do"></constant>
+	
+	  <!-- Struts的对象工厂是Spring --> 
+	    
+	  <constant name="struts.objectFactory" value="spring"></constant>
+
+	<package name="default" extends="struts-default">		
+		<!-- <action name="save" class="userAction" method="save">
+  			<result name="save-success">/index.jsp</result>
+  		</action>
+	
+	<action name="find" class="userAction" method="find">
+  			<result name="save-success">/index.jsp</result>
+  		</action> -->
+	</package>	
+
+</struts>
+
